@@ -191,3 +191,16 @@ Tables also have header, body and footer mirroring what we have for our HTML web
         <input type="submit" name="">
     </form>
 ```
+
+## Resources
+[i vs em](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/em#%3Ci%3E_vs._%3Cem%3E)
+ 
+[b vs strong](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/strong)
+ 
+[The Anchor element](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/a)
+ 
+[The Table element](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/table)
+ 
+[The Form element](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/form)
+ 
+[The Input](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/input)
