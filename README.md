@@ -204,3 +204,8 @@ Tables also have header, body and footer mirroring what we have for our HTML web
 [The Form element](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/form)
  
 [The Input](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/input)
+
+## Lecture & Study
+[Unicode](https://www.joelonsoftware.com/2003/10/08/the-absolute-minimum-every-software-developer-absolutely-positively-must-know-about-unicode-and-character-sets-no-excuses/)
+ 
+[HTML Cheat Sheet](https://web.stanford.edu/group/csp/cs21/htmlcheatsheet.pdf)
