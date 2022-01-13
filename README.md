@@ -111,5 +111,45 @@ Meta tag : Describe meta data within an HTML document
 
 ## HTML Tables
 ```
-
+<tr> Table Row
+<td> Table Data
+Tables also have header, body and footer mirroring what we have for our HTML website
+<thead>
+<tbody>
+<tfoot>
 ```
+```html
+    <table border="1">
+        <thead>
+            <tr>
+                <th>Dates</th>
+                <th>Work</th>
+            </tr>
+        </thead>
+        <tbody>
+            <tr>
+                <td>2010-2013</td>
+                <td>Lead developer</td>
+            </tr>
+            <tr>
+                <td>2010</td>
+                <td>Reasercher at Developer Design</td>
+            </tr>
+
+        </tbody>
+    </table>
+```
+![This is an image](/HTML-Tables.png)
+
+## Using HTML Tables for Layout
+```html
+<table cellspacing="20" >
+```
+
+## HTML Tables code challenge
+```diff
++create a table where you've got an h3 for the skills subtitle, 
++and then you've got all your skills listed in a column on the left, 
++and on the right you've got some rows where you've listed using emojis to show how familiar you are with each skill ranging from 5 star to 1 star.
+```
+![Tables-Challenge](https://user-images.githubusercontent.com/93165649/149387413-23ec39bf-0d6f-4ee4-be2e-c5bd828bae95.png)
