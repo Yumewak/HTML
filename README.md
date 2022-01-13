@@ -153,3 +153,41 @@ Tables also have header, body and footer mirroring what we have for our HTML web
 +and on the right you've got some rows where you've listed using emojis to show how familiar you are with each skill ranging from 5 star to 1 star.
 ```
 ![Tables-Challenge](https://user-images.githubusercontent.com/93165649/149387413-23ec39bf-0d6f-4ee4-be2e-c5bd828bae95.png)
+
+## HTML Forms
+```
+<form> We use the form tag to define what should go into our form
+<label> Between the opening and closing label tags, you can write some text that will be displayed as a label inside your form.
+<input type="text"> You can define the input type by using the type attribute
+<input type="text">
+<input type="submit">
+<input type="file">
+<input type="date">
+<input type="radio">
+<input type="range">
+```
+```html
+    <form class="" action="index.html" method="post">
+        <label for="">Your Name:</label>
+        <input type="text" name="" id="" value="">
+        <input type="color"> <br>
+        <input type="password">
+        <input type="submit" name="">
+        <br>
+        <label for="">Do you want to sign up to the email list?</label>
+        <input type="checkbox">
+    </form>
+```
+
+## Forms in practice
+```html
+    <form action="mailto:info@londonappbrewery.com" method="post" enctype="text/plain">
+        <label for="">Your Name:</label>
+        <input type="text" name="yourName" id="" value=""><br>
+        <label for="">Your Email:</label>
+        <input type="email" name="yourEmail"><br>
+        <label for="">Your Message:</label><br>
+        <textarea name="yourMessage" id="" cols="30" rows="10"></textarea><br>
+        <input type="submit" name="">
+    </form>
+```
