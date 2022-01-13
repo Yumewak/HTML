@@ -1,4 +1,4 @@
-# Basic HTML
+# HTML
 
 ## HTML Introduction
 ```
